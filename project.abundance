@@ -145,93 +145,6 @@
       ]
     },
     {
-      "atomType": "CutLayout",
-      "x": 0.8588039867109635,
-      "y": 0.28260869565217395,
-      "uniqueID": "3f87d45d-441e-4274-ab63-e407ffbc42be",
-      "name": "Cut Layout",
-      "ioValues": [
-        {
-          "name": "geometry",
-          "ioValue": "__GEOMETRY_INPUT__"
-        },
-        {
-          "name": "Sheet Width",
-          "ioValue": 96
-        },
-        {
-          "name": "Sheet Height",
-          "ioValue": 48
-        },
-        {
-          "name": "Part Padding",
-          "ioValue": 0.4
-        },
-        {
-          "name": "Orientations",
-          "ioValue": 12
-        }
-      ],
-      "placements": []
-    },
-    {
-      "atomType": "CutLayout",
-      "x": 0.646878198567042,
-      "y": 0.21428571428571427,
-      "uniqueID": "db77c602-2d69-4b2b-b58b-5262a20ead3d",
-      "name": "Cut Layout",
-      "ioValues": [
-        {
-          "name": "geometry",
-          "ioValue": "__GEOMETRY_INPUT__"
-        },
-        {
-          "name": "Sheet Width",
-          "ioValue": 96
-        },
-        {
-          "name": "Sheet Height",
-          "ioValue": 48
-        },
-        {
-          "name": "Part Padding",
-          "ioValue": 0.4
-        },
-        {
-          "name": "Orientations",
-          "ioValue": 12
-        }
-      ],
-      "placements": [
-        [
-          {
-            "id": 0,
-            "rotate": 50,
-            "translate": {
-              "x": 9.197971838788108,
-              "y": 13.407263803557472
-            }
-          },
-          {
-            "id": 1,
-            "rotate": 0,
-            "translate": {
-              "x": 14.4,
-              "y": 29.714527607114942
-            }
-          },
-          {
-            "id": 2,
-            "rotate": 90,
-            "translate": {
-              "x": 9.821189672522777,
-              "y": 2.4000000000000004
-            }
-          }
-        ]
-      ]
-    },
-    {
       "atomType": "Molecule",
       "x": 0.714431934493347,
       "y": 0.8726708074534161,
@@ -2637,7 +2550,7 @@
                     },
                     {
                       "name": "Shape 3",
-                      "ioValue": null
+                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "closedSelection": 0
@@ -5179,7 +5092,7 @@
                     },
                     {
                       "name": "Shape 3",
-                      "ioValue": null
+                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "closedSelection": 0
@@ -6349,7 +6262,7 @@
                         },
                         {
                           "name": "Shape 3",
-                          "ioValue": null
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "closedSelection": 0
@@ -7743,7 +7656,7 @@
                         },
                         {
                           "name": "Shape 3",
-                          "ioValue": null
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "closedSelection": 0
@@ -9499,7 +9412,7 @@
                     },
                     {
                       "name": "Shape 3",
-                      "ioValue": null
+                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "closedSelection": 0
@@ -11587,7 +11500,7 @@
                         },
                         {
                           "name": "Shape 3",
-                          "ioValue": null
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "closedSelection": 0
@@ -14535,7 +14448,7 @@
                         },
                         {
                           "name": "Shape 3",
-                          "ioValue": null
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "closedSelection": 0
@@ -17003,11 +16916,6 @@
       "ap2ID": "ff6ad507-aa8e-44b8-86d6-4193b6225bb3"
     },
     {
-      "ap2Name": "geometry",
-      "ap1ID": "fd528b75-454a-4a4e-a813-3112a0a9f4dc",
-      "ap2ID": "3f87d45d-441e-4274-ab63-e407ffbc42be"
-    },
-    {
       "ap2Name": "Seat Width",
       "ap1ID": "f9fb4bca-a304-42e9-a035-a7878f40634f",
       "ap2ID": "aa94f5f5-8f1f-4e7e-8fe6-b0813a7ec98c"
@@ -17076,11 +16984,6 @@
       "ap2Name": "Shape 3",
       "ap1ID": "41af37e5-92b1-4a25-9b9d-5c20d49d71d2",
       "ap2ID": "fd528b75-454a-4a4e-a813-3112a0a9f4dc"
-    },
-    {
-      "ap2Name": "geometry",
-      "ap1ID": "41af37e5-92b1-4a25-9b9d-5c20d49d71d2",
-      "ap2ID": "db77c602-2d69-4b2b-b58b-5262a20ead3d"
     },
     {
       "ap2Name": "Shape 1",
